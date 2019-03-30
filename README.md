@@ -2,3 +2,4 @@
 dodany tekst
 
 do lokalnego
+do lokalnego 2
